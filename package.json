@@ -1,0 +1,8 @@
+{
+  "name": "remix-repro",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "utils"
+  ]
+}
